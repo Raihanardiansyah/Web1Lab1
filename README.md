@@ -12,14 +12,14 @@ apabila sudah membuat/memiliki akunnya silahkan login dan akan adatampilan profi
 ### Membuat file
 setelah itu silahkan kembalik ke menu home dan nekan menu NEW:
 
-![Gambar1](png/Repositories.png)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/Repositories.png?raw=true)
 
 setelah setelah di tekan silakhkan isi nama dari file repository dan pilih menu publik dari 2 menu tersebut,
 lalu tekan Create Repository :
 
 ![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/Part1.png?raw=true)
 
-![Gambar1](png/Part2.png)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/Part2.png?raw=true)
 
 ## Membuat flowchart untuk menghitung 3 bilangan untuk menetukan bilangan terbesar
 
@@ -75,7 +75,7 @@ Jika C lebih besar daripada kandidat, maka C menjadi bilangan terbesar.
 di sini saya memiliki program untuk menghitung 3 bilangan untuk menentukan bilangan terbesar,
 di contoh saya menggunakan bilangan A yang saya isi dengan 20 dan B dengan 40 Dan C dengan 50, di bawah ini adalah contoh :
 
-![Gambar1](png/program.png)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/program.png?raw=true)
 
 dan di bawah inilah penejelasan daro program tersebut :
 
