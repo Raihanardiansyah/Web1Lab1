@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Web1Lab1
-membuat akun github
-![alt](https://Screenshot 2024-10-19 212505)
-=======
 # laporan praktikum
 
 ## Membuat repository
@@ -12,7 +7,7 @@ membuat akun github
 pertama tama yang pasti kalian harus membuat akun gituhub terlebih dahulu, buatlah akun pada github.com
 apabila sudah membuat/memiliki akunnya silahkan login dan akan adatampilan profil seperti ini:
 
-![gambar1](Profil.png)
+![gambar 1](Profil.png)
 
 ### Membuat file
 setelah itu silahkan kembalik ke menu home dan nekan menu NEW:
