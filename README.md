@@ -12,20 +12,20 @@ apabila sudah membuat/memiliki akunnya silahkan login dan akan adatampilan profi
 ### Membuat file
 setelah itu silahkan kembalik ke menu home dan nekan menu NEW:
 
-![gambar](png/Repositories.png]
+![gambar](png/Repositories.png)
 
 setelah setelah di tekan silakhkan isi nama dari file repository dan pilih menu publik dari 2 menu tersebut,
 lalu tekan Create Repository :
 
-![Gambar](png/Part1.png)
+![Gambar]()
 
-![gambar](png/Part2.png)
+![gambar]()
 
 ## Membuat flowchart untuk menghitung 3 bilangan untuk menetukan bilangan terbesar
 
 Pertama tama yang pasti kalian harus membuat flowchatr terlebih dahulu seperti gambar di bawah :
 
-![image](png/Flowchart.png)
+![image]()
 
 ### Langkah langkah dalam flowchatr
 
@@ -75,7 +75,7 @@ Jika C lebih besar daripada kandidat, maka C menjadi bilangan terbesar.
 di sini saya memiliki program untuk menghitung 3 bilangan untuk menentukan bilangan terbesar,
 di contoh saya menggunakan bilangan A yang saya isi dengan 20 dan B dengan 40 Dan C dengan 50, di bawah ini adalah contoh :
 
-![image](png/program.png)
+![image]()
 
 dan di bawah inilah penejelasan daro program tersebut :
 
