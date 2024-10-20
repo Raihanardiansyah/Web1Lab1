@@ -7,7 +7,7 @@
 pertama tama yang pasti kalian harus membuat akun gituhub terlebih dahulu, buatlah akun pada github.com
 apabila sudah membuat/memiliki akunnya silahkan login dan akan adatampilan profil seperti ini:
 
-![gambar 1](Profil.png)
+![Gambar 1](Png/Profil.png)
 
 ### Membuat file
 setelah itu silahkan kembalik ke menu home dan nekan menu NEW:
