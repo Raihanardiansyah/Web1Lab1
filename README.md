@@ -19,13 +19,13 @@ lalu tekan Create Repository :
 
 ![Gambar 3](png/Part1.png)
 
-![Gambar 4]()
+![Gambar 4](png/Part2.png)
 
 ## Membuat flowchart untuk menghitung 3 bilangan untuk menetukan bilangan terbesar
 
 Pertama tama yang pasti kalian harus membuat flowchatr terlebih dahulu seperti gambar di bawah :
 
-![Gambar 5]()
+![Gambar 5](Png/Flowchart.png)
 
 ### Langkah langkah dalam flowchatr
 
@@ -75,7 +75,7 @@ Jika C lebih besar daripada kandidat, maka C menjadi bilangan terbesar.
 di sini saya memiliki program untuk menghitung 3 bilangan untuk menentukan bilangan terbesar,
 di contoh saya menggunakan bilangan A yang saya isi dengan 20 dan B dengan 40 Dan C dengan 50, di bawah ini adalah contoh :
 
-![Gambar 6]()
+![Gambar 6](png/program.png)
 
 dan di bawah inilah penejelasan daro program tersebut :
 
