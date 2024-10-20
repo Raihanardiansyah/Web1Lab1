@@ -12,7 +12,7 @@ apabila sudah membuat/memiliki akunnya silahkan login dan akan adatampilan profi
 ### Membuat file
 setelah itu silahkan kembalik ke menu home dan nekan menu NEW:
 
-![gambar 1](png/Profil.png)
+![Gambar 1](png/Repositories.png)
 
 setelah setelah di tekan silakhkan isi nama dari file repository dan pilih menu publik dari 2 menu tersebut,
 lalu tekan Create Repository :
