@@ -7,25 +7,25 @@
 pertama tama yang pasti kalian harus membuat akun gituhub terlebih dahulu, buatlah akun pada github.com
 apabila sudah membuat/memiliki akunnya silahkan login dan akan adatampilan profil seperti ini:
 
-![Gambar 1](Png/Profil.png)
+![Gambar1](Png/Profil.png)
 
 ### Membuat file
 setelah itu silahkan kembalik ke menu home dan nekan menu NEW:
 
-![Gambar 1](png/Repositories.png)
+![Gambar1](png/Repositories.png)
 
 setelah setelah di tekan silakhkan isi nama dari file repository dan pilih menu publik dari 2 menu tersebut,
 lalu tekan Create Repository :
 
-![Gambar 1](png/Part1.png)
+![Gambar1](png/Part1.png)
 
-![Gambar 1](png/Part2.png)
+![Gambar1](png/Part2.png)
 
 ## Membuat flowchart untuk menghitung 3 bilangan untuk menetukan bilangan terbesar
 
 Pertama tama yang pasti kalian harus membuat flowchatr terlebih dahulu seperti gambar di bawah :
 
-![Gambar 1](Png/Flowchart.png)
+![Gambar1](Png/Flowchart.png)
 
 ### Langkah langkah dalam flowchatr
 
@@ -75,7 +75,7 @@ Jika C lebih besar daripada kandidat, maka C menjadi bilangan terbesar.
 di sini saya memiliki program untuk menghitung 3 bilangan untuk menentukan bilangan terbesar,
 di contoh saya menggunakan bilangan A yang saya isi dengan 20 dan B dengan 40 Dan C dengan 50, di bawah ini adalah contoh :
 
-![Gambar 1](png/program.png)
+![Gambar1](png/program.png)
 
 dan di bawah inilah penejelasan daro program tersebut :
 
