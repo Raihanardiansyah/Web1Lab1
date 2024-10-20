@@ -1,28 +1,29 @@
 # laporan praktikum
 
-## Mmbuat repository
+## Membuat repository
 
 ### Membuat akun github
 
 pertama tama yang pasti kalian harus membuat akun gituhub terlebih dahulu, buatlah akun pada github.com
 apabila sudah membuat/memiliki akunnya silahkan login dan akan adatampilan profil seperti ini:
 
-![gambar1](ssgit.png)
+![gambar1](Profil.png)
 
 ### Membuat file
 setelah itu silahkan kembalik ke menu home dan nekan menu NEW:
 
-![gambar](new.png]
+![gambar](repositories.png]
+
 setelah setelah di tekan silakhkan isi nama dari file repository dan pilih menu publik dari 2 menu tersebut,
 lalu tekan Create Repository :
 
-![Gambar](create.png)
+![Gambar](part1.png)
 
 ## Membuat flowchart untuk menghitung 3 bilangan untuk menetukan bilangan terbesar
 
 Pertama tama yang pasti kalian harus membuat flowchatr terlebih dahulu seperti gambar di bawah :
 
-![image](flowchart.png)
+![image](Flowchart.png)
 
 ### Langkah langkah dalam flowchatr
 
