@@ -17,7 +17,7 @@ setelah itu silahkan kembalik ke menu home dan nekan menu NEW:
 setelah setelah di tekan silakhkan isi nama dari file repository dan pilih menu publik dari 2 menu tersebut,
 lalu tekan Create Repository :
 
-![Gambar 3]()
+![Gambar 3](png/Part1.png)
 
 ![Gambar 4]()
 
