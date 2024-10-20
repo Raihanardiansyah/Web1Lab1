@@ -17,7 +17,7 @@ setelah itu silahkan kembalik ke menu home dan nekan menu NEW:
 setelah setelah di tekan silakhkan isi nama dari file repository dan pilih menu publik dari 2 menu tersebut,
 lalu tekan Create Repository :
 
-![Gambar1](png/Part1.png)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/Part1.png?raw=true)
 
 ![Gambar1](png/Part2.png)
 
