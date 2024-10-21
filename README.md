@@ -5,7 +5,7 @@
 ### Membuat akun github
 
 pertama tama yang pasti kalian harus membuat akun gituhub terlebih dahulu, buatlah akun pada github.com
-apabila sudah membuat/memiliki akunnya silahkan login dan akan adatampilan profil seperti ini:
+apabila sudah membuat/memiliki akunnya silahkan login dan akan ada tampilan profil seperti ini:
 
 ![Gambar1](Png/Profil.png)
 
