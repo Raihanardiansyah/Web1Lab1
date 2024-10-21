@@ -12,14 +12,61 @@ apabila sudah membuat/memiliki akunnya silahkan login dan akan adatampilan profi
 ### Membuat file
 setelah itu silahkan kembalik ke menu home dan nekan menu NEW:
 
-![Gambar1](png/Repositories.png)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/Repositories.png?raw=true)
 
 setelah setelah di tekan silakhkan isi nama dari file repository dan pilih menu publik dari 2 menu tersebut,
 lalu tekan Create Repository :
 
-![Gambar1](png/Part1.png)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/Part1.png?raw=true)
 
-![Gambar1](png/Part2.png)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/Part2.png?raw=true)
+
+### memasang git tools
+
+kaliana harus download terlebih dahulu  Git Tool dengan melakuan percarian di chrome "Gistscm",
+lau tekan download for windows.
+
+![Gambar 1](gitscm)
+
+lalu tekan click here to download
+
+![Gambar1](download)
+
+setelah itu kalian masuk ke proses penginstalan git tools yang sudah kalian download lalu klik next teruh hingga tampilannya berubah lalu tekan instal,
+tunggu hingga proses penginstalan selesai hingga tampilannya seperti ini: lalu centang kedua pilihan tersebut.
+
+![Gambar1](finish)
+
+### mengoperasian Git Tools
+
+setelah selesai melakukan penginstalan maka tampilannya akan seperti ini:
+
+![Gambar1](pwd)
+
+nah kalian masukan kode kode tersebut, kode tersebut yang berupa "pwd" adalah untuk memeriksa data file sebelum memulai ke langkah berikutnya,
+selanjutnya kalian kembali ke dalam web github untuk mengcopy link repository yang sudah kalian buat, tekan kolom "Code" lalu salin code tersebut :
+
+![Gambar](Code)
+
+lalu kembali ke fit tools dan lanjutkan dengan code "git clone copy link yang tadi", lalu cari file README.md pada file Web1La1:
+
+![Gambar1](file)
+
+lalu buka file README.md dengan vs code mkan tampolan dari README.md kalian akan seperti ini:
+
+![Gambar1](vscode)
+
+lalu kalian buat file baru:
+
+![Gambar1](vscode2)
+
+lalu ganti mendaji Python:
+
+![Gambar](vscodep)
+
+dan save sesuai dengan kemauan kalian senidiri:
+
+![Gambar1](vscodes)
 
 ## Membuat flowchart untuk menghitung 3 bilangan untuk menetukan bilangan terbesar
 
@@ -75,7 +122,7 @@ Jika C lebih besar daripada kandidat, maka C menjadi bilangan terbesar.
 di sini saya memiliki program untuk menghitung 3 bilangan untuk menentukan bilangan terbesar,
 di contoh saya menggunakan bilangan A yang saya isi dengan 20 dan B dengan 40 Dan C dengan 50, di bawah ini adalah contoh :
 
-![Gambar1](png/program.png)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/program.png?raw=true)
 
 dan di bawah inilah penejelasan daro program tersebut :
 
