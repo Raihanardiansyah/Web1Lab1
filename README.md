@@ -128,7 +128,7 @@ dan di bawah inilah penejelasan daro program tersebut :
 
 1. Input Bilangan:
 
-- a = float(input("Masukkan bilangan A: ")): Meminta pengguna untuk memasukkan bilangan A dan mengonversinya menjadi tipe data float.
+- a = int(input("Masukkan bilangan A: ")): Meminta pengguna untuk memasukkan bilangan A dan mengonversinya menjadi tipe data int.
 
 - b dan c: Dikerjakan dengan cara yang sama untuk bilangan B dan C.
 
@@ -165,4 +165,5 @@ C = 50
 maka output yang di keluarkan adalah 
 
 Bilangan Terbesar adalah: 50
->>>>>>> acc394c8d4d063cd14bedb2d3d8e424a595d314b
+
+### Selesai
