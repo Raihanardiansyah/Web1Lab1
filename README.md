@@ -21,6 +21,53 @@ lalu tekan Create Repository :
 
 ![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/Part2.png?raw=true)
 
+### memasang git tools
+
+kaliana harus download terlebih dahulu  Git Tool dengan melakuan percarian di chrome "Gistscm",
+lau tekan download for windows.
+
+![Gambar 1](gitscm)
+
+lalu tekan click here to download
+
+![Gambar1](download)
+
+setelah itu kalian masuk ke proses penginstalan git tools yang sudah kalian download lalu klik next teruh hingga tampilannya berubah lalu tekan instal,
+tunggu hingga proses penginstalan selesai hingga tampilannya seperti ini: lalu centang kedua pilihan tersebut.
+
+![Gambar1](finish)
+
+### mengoperasian Git Tools
+
+setelah selesai melakukan penginstalan maka tampilannya akan seperti ini:
+
+![Gambar1](pwd)
+
+nah kalian masukan kode kode tersebut, kode tersebut yang berupa "pwd" adalah untuk memeriksa data file sebelum memulai ke langkah berikutnya,
+selanjutnya kalian kembali ke dalam web github untuk mengcopy link repository yang sudah kalian buat, tekan kolom "Code" lalu salin code tersebut :
+
+![Gambar](Code)
+
+lalu kembali ke fit tools dan lanjutkan dengan code "git clone copy link yang tadi", lalu cari file README.md pada file Web1La1:
+
+![Gambar1](file)
+
+lalu buka file README.md dengan vs code mkan tampolan dari README.md kalian akan seperti ini:
+
+![Gambar1](vscode)
+
+lalu kalian buat file baru:
+
+![Gambar1](vscode2)
+
+lalu ganti mendaji Python:
+
+![Gambar](vscodep)
+
+dan save sesuai dengan kemauan kalian senidiri:
+
+![Gambar1](vscodes)
+
 ## Membuat flowchart untuk menghitung 3 bilangan untuk menetukan bilangan terbesar
 
 Pertama tama yang pasti kalian harus membuat flowchatr terlebih dahulu seperti gambar di bawah :
