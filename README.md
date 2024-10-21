@@ -26,11 +26,11 @@ lalu tekan Create Repository :
 kaliana harus download terlebih dahulu  Git Tool dengan melakuan percarian di chrome "Gistscm",
 lau tekan download for windows.
 
-![Gambar 1](gitscm)
+![Gambar 1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/Gitscm.png?raw=true)
 
 lalu tekan click here to download
 
-![Gambar1](download)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/GitscmD.png?raw=true)
 
 setelah itu kalian masuk ke proses penginstalan git tools yang sudah kalian download lalu klik next teruh hingga tampilannya berubah lalu tekan instal,
 tunggu hingga proses penginstalan selesai hingga tampilannya seperti ini: lalu centang kedua pilihan tersebut.
@@ -41,20 +41,20 @@ tunggu hingga proses penginstalan selesai hingga tampilannya seperti ini: lalu c
 
 setelah selesai melakukan penginstalan maka tampilannya akan seperti ini:
 
-![Gambar1](pwd)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/Pwd.png?raw=true)
 
 nah kalian masukan kode kode tersebut, kode tersebut yang berupa "pwd" adalah untuk memeriksa data file sebelum memulai ke langkah berikutnya,
 selanjutnya kalian kembali ke dalam web github untuk mengcopy link repository yang sudah kalian buat, tekan kolom "Code" lalu salin code tersebut :
 
-![Gambar](Code)
+![Gambar](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/link.png?raw=true)
 
 lalu kembali ke fit tools dan lanjutkan dengan code "git clone copy link yang tadi", lalu cari file README.md pada file Web1La1:
 
-![Gambar1](file)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/file.png?raw=true)
 
 lalu buka file README.md dengan vs code mkan tampolan dari README.md kalian akan seperti ini:
 
-![Gambar1](vscode)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/vscode.png?raw=true)
 
 lalu kalian buat file baru:
 
