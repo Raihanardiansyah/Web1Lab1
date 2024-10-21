@@ -122,7 +122,7 @@ Jika C lebih besar daripada kandidat, maka C menjadi bilangan terbesar.
 di sini saya memiliki program untuk menghitung 3 bilangan untuk menentukan bilangan terbesar,
 di contoh saya menggunakan bilangan A yang saya isi dengan 20 dan B dengan 40 Dan C dengan 50, di bawah ini adalah contoh :
 
-![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/program.png?raw=true)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/vscode1.png?raw=true)
 
 dan di bawah inilah penejelasan daro program tersebut :
 
