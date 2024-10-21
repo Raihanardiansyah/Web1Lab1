@@ -35,7 +35,7 @@ lalu tekan click here to download
 setelah itu kalian masuk ke proses penginstalan git tools yang sudah kalian download lalu klik next teruh hingga tampilannya berubah lalu tekan instal,
 tunggu hingga proses penginstalan selesai hingga tampilannya seperti ini: lalu centang kedua pilihan tersebut.
 
-![Gambar1](finish)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/finish.png?raw=true)
 
 ### mengoperasian Git Tools
 
@@ -58,15 +58,15 @@ lalu buka file README.md dengan vs code mkan tampolan dari README.md kalian akan
 
 lalu kalian buat file baru:
 
-![Gambar1](vscode2)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/newfile.png?raw=true)
 
 lalu ganti mendaji Python:
 
-![Gambar](vscodep)
+![Gambar](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/py.png?raw=true)
 
 dan save sesuai dengan kemauan kalian senidiri:
 
-![Gambar1](vscodes)
+![Gambar1](https://github.com/Raihanardiansyah/Web1Lab1/blob/main/Png/save.png?raw=true)
 
 ## Membuat flowchart untuk menghitung 3 bilangan untuk menetukan bilangan terbesar
 
